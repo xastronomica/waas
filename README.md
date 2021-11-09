@@ -1,0 +1,3 @@
+# WAAS
+
+🚀 WebAssembly as string
