@@ -1,3 +1,3 @@
 # WAAS
 
-🚀 WebAssembly as string
+🚀 Embed WebAssembly as encoded Base64 string

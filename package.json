@@ -1,6 +1,6 @@
 {
   "name": "wassy",
-  "description": "🚀 WebAssembly as string",
+  "description": "🚀 Embed WebAssembly as encoded Base64 string",
   "author": {
     "name": "Xastro",
     "url": "https://github.com/xastronomica"
